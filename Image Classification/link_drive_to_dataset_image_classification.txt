@@ -1,0 +1,1 @@
+Download the dataset “cleandes_no_duplicates.npz” for Image Classification Challenge from this drive folder: https://drive.google.com/drive/folders/1zcpjDP5VinRCQA78sOAu0Kd12HUpF5U6?usp=sharing
