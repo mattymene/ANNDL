@@ -15,5 +15,5 @@ Code developed by:
 
 # Image Segmentation
 1. First read the REPORT document "AN2DL_Reports_Challenge_2_BordinMenegaleNegri.pdf"
-2. Then download the (already cleaned from duplicates) dataset from "link_drive_to_dataset_image_classification.txt"
+2. Then download the (already cleaned from duplicates) dataset from "link_drive_to_dataset_image_segmentation.txt"
 3. Then download and run the scripts "BEST_MODEL_no-background.ipynb, baseline_U-Net.ipynb"
