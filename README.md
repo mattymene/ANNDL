@@ -1,5 +1,5 @@
 # ANNDL
-Artificial Neural Networks and Deep Learning 2025 challenges at Politecnico di Milano
+Artificial Neural Networks and Deep Learning 2024/2025 challenges at Politecnico di Milano
 - Developing a Convolutional Neural Network (CNN) for Image Classification tasks, performing Transfer-Learning and Fine-Tuning
 - Developing a U-Net based Neural Network for Semantic Image Segmentation tasks
 
@@ -15,5 +15,5 @@ Code developed by:
 
 # Image Segmentation
 1. First read the REPORT document "AN2DL_Reports_Challenge_2_BordinMenegaleNegri.pdf"
-2. Then download the (already cleaned from duplicates) dataset from "link_drive_to_dataset_image_segmentation.txt"
+2. Then download the dataset from "link_drive_to_dataset_image_segmentation.txt"
 3. Then download and run the scripts "BEST_MODEL_no-background.ipynb, baseline_U-Net.ipynb"
